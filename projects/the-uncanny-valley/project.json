@@ -1,0 +1,87 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "THE UNCANNY VALLEY",
+  "year": 2019,
+  "kind": {
+    "ca": "peça escènica / laSADCUM",
+    "es": "pieza escénica / laSADCUM",
+    "en": "dance piece / laSADCUM"
+  },
+  "text": {
+    "ca": [
+      "Ulay i Eva són dos personatges ficcionals que es troben dins d’un videojoc de realitat virtual. Emmarcats en un paisatge barroc-futurista, Ulay i Eva es converteixen en un reflex distòpic de la virtualització del cos humà, mostrant la desnaturalització de l’home i la mecanització de les seves accions."
+    ],
+    "es": [
+      "Ulay y Eva son dos personajes ficticios que se encuentran dentro de un videojuego de realidad virtual. Enmarcados en un paisaje barroco-futurista, Ulay y Eva se convierten en un reflejo distópico de la virtualización del cuerpo humano, mostrando la desnaturalización del hombre y la mecanización de sus acciones."
+    ],
+    "en": [
+      "Ulay and Eva are two fictional characters who live in a virtual reality video game. Framed in a Baroque-futurist landscape, Ulay and Eva coexist in a dystopic reflection of the virtualization of the human body, they show the denaturation of the human and the mechanization of its actions."
+    ]
+  },
+  "credits": [
+    {
+      "role": {
+        "ca": "Coreografia i direcció",
+        "es": "Coreografía y dirección",
+        "en": "Choreography and direction"
+      },
+      "name": "Guillem Jiménez"
+    },
+    {
+      "role": {
+        "ca": "Interpretació",
+        "es": "Interpretación",
+        "en": "Performers"
+      },
+      "name": {
+        "ca": "Guillem Jiménez i Ona Cros",
+        "es": "Guillem Jiménez y Ona Cros",
+        "en": "Guillem Jiménez & Ona Cros"
+      }
+    },
+    {
+      "role": {
+        "ca": "Disseny i confecció de vestuari",
+        "es": "Diseño y confección de vestuario",
+        "en": "Costume design"
+      },
+      "name": "Guillem Rodriguez"
+    },
+    {
+      "role": {
+        "ca": "Tutorització",
+        "es": "Tutorización",
+        "en": "Mentorship"
+      },
+      "name": "Juan Carlos Lérida"
+    }
+  ],
+  "awards": {
+    "ca": [
+      "Premiada en el 33è Certamen Coreográfico de Madrid amb una residència a La Caldera"
+    ],
+    "es": [
+      "Premiada en el 33.º Certamen Coreográfico de Madrid con una residencia en La Caldera"
+    ],
+    "en": [
+      "Awarded at the 33rd Certamen Coreográfico of Madrid with a residency at La Caldera"
+    ]
+  },
+  "photo_credit": {
+    "ca": "Fotos Andrea Campillo",
+    "es": "Fotos Andrea Campillo",
+    "en": "Pics Andrea Campillo"
+  },
+  "cover": "1",
+  "photos": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "videos": [
+    {
+      "url": "https://player.vimeo.com/video/424312527?h=94f1c6b7ec"
+    }
+  ]
+}

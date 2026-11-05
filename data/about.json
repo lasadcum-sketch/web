@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema/about.json",
+  "ca": [
+    "laSADCUM (Barcelona, 2019) és el projecte de dansa del coreògraf i ballarí barceloní Guillem Jiménez, des del qual desenvolupa gran part de la seva pràctica artística.",
+    "El seu treball parteix de l’anàlisi de les dinàmiques culturals de la societat postinternet, entenent la cultura digital no només com un context, sinó també com un tret identitari i un territori de recerca coreogràfica.",
+    "A través de la creació escènica, laSADCUM aborda, des de la dansa, qüestions relacionades amb la tecnologia, els mecanismes de control, el capitalisme i les lògiques del consum, explorant com travessen els cossos, els comportaments i les formes contemporànies de subjectivitat. Les seves propostes escèniques operen com a ficcions coreogràfiques des de les quals explorar les contradiccions, els afectes, les corporalitats, les tensions i les fissures del digimodernisme, posant en fricció certes emocions complexes que configuren l’experiència contemporània.",
+    "Fundada a Barcelona, laSADCUM ha rebut diversos premis i els seus treballs s’han pogut veure en diversos llocs d’Europa, treballant de manera local i internacional.",
+    "laSADCUM és artista associat al Mercat de les Flors 2026-2029."
+  ],
+  "es": [
+    "laSADCUM (Barcelona, 2019) es el proyecto de danza del coreógrafo y bailarín barcelonés Guillem Jiménez, desde el que desarrolla gran parte de su práctica artística.",
+    "Su trabajo parte del análisis de las dinámicas culturales de la sociedad postinternet, entendiendo la cultura digital no solo como un contexto, sino también como un rasgo identitario y un territorio de investigación coreográfico.",
+    "A través de la creación escénica, laSADCUM aborda, desde la danza, cuestiones relacionadas con la tecnología, los mecanismos de control, el capitalismo y las lógicas del consumo, explorando cómo estos atraviesan los cuerpos, los comportamientos y las formas contemporáneas de subjetividad. Sus propuestas escénicas operan como ficciones coreográficas desde las que explorar las contradicciones, los afectos, las corporalidades, las tensiones y las fisuras del digimodernismo, poniendo en fricción ciertas emociones complejas que configuran la experiencia contemporánea.",
+    "Fundada en Barcelona, laSADCUM ha recibido diversos premios y sus trabajos se han podido ver en diversos lugares de Europa, trabajando de forma local e internacional.",
+    "laSADCUM es artista asociado al Mercat de les Flors 2026-2029."
+  ],
+  "en": [
+    "laSADCUM (Barcelona, 2019) is the dance project of Barcelona choreographer and dancer Guillem Jiménez, and the home of much of Guillem’s artistic practice.",
+    "Its work starts from an analysis of the cultural dynamics of post-internet society, understanding digital culture not only as a context but also as a trait of identity and a territory for choreographic research.",
+    "Through stage creation, laSADCUM addresses, from dance, questions related to technology, mechanisms of control, capitalism and the logics of consumption, exploring how they run through bodies, behaviours and contemporary forms of subjectivity. Its stage works operate as choreographic fictions from which to explore the contradictions, affects, corporealities, tensions and fissures of digimodernism, bringing into friction certain complex emotions that shape contemporary experience.",
+    "Founded in Barcelona, laSADCUM has received several awards and its work has been shown in various places across Europe, working both locally and internationally.",
+    "laSADCUM is an associate artist of the Mercat de les Flors 2026-2029."
+  ]
+}

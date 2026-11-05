@@ -1,0 +1,205 @@
+{
+  "$schema": "../../schema/project.json",
+  "title": "CYBERMEDIEVAL",
+  "year": 2026,
+  "text": {
+    "ca": [
+      "Cybermedieval és un periple, un escàner, un portal, una dimensió, un temps. Un escenari especulatiu sci-fi fantasy en què les empreses tecnològiques han substituït el model d’estat-nació territorial i dirigeixen el món a través del control del Big Data. El capitalisme ha esdevingut tecnofeudalisme. Les corporacions Big Tech s’erigeixen com a regnes i els seus sobirans són els CEO, els algoritmes i les IA que governen una servitud digital, les USERF (user + serf, ‘usuari + serf’), a través d’uns pactes de “termes i condicions” que permeten utilitzar les terres dels lords vectorialistes (les plataformes de dades) a canvi de conrear-les amb la producció incessant de contingut i la datificació dels cossos."
+    ],
+    "es": [
+      "Cybermedieval es un periplo, un escáner, un portal, una dimensión, un tiempo. Un escenario especulativo sci-fi fantasy en el que las empresas tecnológicas han sustituido al modelo estado-nación territorial y dirigen el mundo a través del control del Big Data. El capitalismo ha devenido tecnofeudalismo. Las corporaciones Big Tech se erigen como reinos y sus soberanos son los CEO, los algoritmos y las IA que gobiernan a una servidumbre digital, los USERF (user + serf, ‘usuario + siervo’), a través de unos pactos de “términos y condiciones” que permiten utilizar las tierras de los lores vectorialistas (las plataformas de datos) a cambio de cultivarlas con la producción incesante de contenido y la datificación de los cuerpos."
+    ],
+    "en": [
+      "Cybermedieval is a journey, a scanner, a portal, a dimension, a time. A speculative sci-fi fantasy scenario in which tech companies have replaced the territorial nation-state and run the world through the control of Big Data. Capitalism has become technofeudalism. Big Tech corporations rise as kingdoms, and their sovereigns are the CEOs, the algorithms and the AIs that rule over a digital serfdom, the USERFs (user + serf), through “terms and conditions” pacts that allow them to use the lands of the vectoralist lords (the data platforms) in exchange for cultivating them with the endless production of content and the datafication of bodies."
+    ]
+  },
+  "credits": [
+    {
+      "role": {
+        "ca": "Direcció, concepte, composició, producció musical i visuals",
+        "es": "Dirección, concepto, composición, producción musical y visuales",
+        "en": "Direction, concept, composition, music production and visuals"
+      },
+      "name": "YESSi PERSE"
+    },
+    {
+      "role": "Mix & Mastering",
+      "name": "SWAN MEAT"
+    },
+    {
+      "role": {
+        "ca": "Lletres",
+        "es": "Letras",
+        "en": "Lyrics"
+      },
+      "name": {
+        "ca": "A partir dels contractes de “termes i condicions” de Microsoft, Meta, Amazon, Google i Apple (MMAGA)",
+        "es": "A partir de los contratos de “términos y condiciones” de Microsoft, Meta, Amazon, Google y Apple (MMAGA)",
+        "en": "Based on the “terms and conditions” contracts of Microsoft, Meta, Amazon, Google and Apple (MMAGA)"
+      }
+    },
+    {
+      "role": {
+        "ca": "Transcripció i arranjaments corals",
+        "es": "Transcripción y arreglos corales",
+        "en": "Transcription and choral arrangements"
+      },
+      "name": "Cristina Colomer"
+    },
+    {
+      "role": {
+        "ca": "Cor",
+        "es": "Coro",
+        "en": "Choir"
+      },
+      "name": "ARSinNOVA Cor de Cambra"
+    },
+    {
+      "role": {
+        "ca": "Direcció del cor",
+        "es": "Dirección del coro",
+        "en": "Choir conductor"
+      },
+      "name": "Maria Mauri Fàbregas"
+    },
+    {
+      "role": {
+        "ca": "Enregistrament del cor",
+        "es": "Grabación del coro",
+        "en": "Choir recording"
+      },
+      "name": {
+        "ca": "Angel Sound Studio, a l’oratori de Sant Felip Neri",
+        "es": "Angel Sound Studio, en el oratorio de Sant Felip Neri",
+        "en": "Angel Sound Studio, at the oratory of Sant Felip Neri"
+      }
+    },
+    {
+      "role": "Soprano",
+      "name": "Nebula Millarca a.k.a. Igor Mortis"
+    },
+    {
+      "role": {
+        "ca": "Companyia de dansa",
+        "es": "Compañía de danza",
+        "en": "Dance company"
+      },
+      "name": "laSADCUM"
+    },
+    {
+      "role": {
+        "ca": "Coreògraf",
+        "es": "Coreógrafo",
+        "en": "Choreographer"
+      },
+      "name": "Guillem Jiménez"
+    },
+    {
+      "role": {
+        "ca": "Intèrprets/ballarins",
+        "es": "Intérpretes/bailarines",
+        "en": "Performers/dancers"
+      },
+      "name": "Meritxell de Soto, Javi Valls, Martí Forcada, Laia Camps, Guillem Jiménez"
+    },
+    {
+      "role": {
+        "ca": "Escultura Sigil",
+        "es": "Escultura Sigil",
+        "en": "Sigil sculpture"
+      },
+      "name": {
+        "ca": "Roger Serret i Ricou i Samuel H. Ramirez",
+        "es": "Roger Serret i Ricou y Samuel H. Ramirez",
+        "en": "Roger Serret i Ricou and Samuel H. Ramirez"
+      }
+    },
+    {
+      "role": {
+        "ca": "Eucaristia Tecnofeudal (glopet)",
+        "es": "Eucaristía Tecnofeudal (sorbito)",
+        "en": "Technofeudal Eucharist (sip)"
+      },
+      "name": "Ainhoa Hernández Escudero"
+    },
+    {
+      "role": {
+        "ca": "Sacerdotessa de la comunió “Eucaristia Tecnofeudal”",
+        "es": "Sacerdotisa comunión “Eucaristía Tecnofeudal”",
+        "en": "Priestess, “Technofeudal Eucharist” communion"
+      },
+      "name": "Lois Bua a.k.a. Mourae"
+    },
+    {
+      "role": {
+        "ca": "Làser show",
+        "es": "Láser Show",
+        "en": "Laser show"
+      },
+      "name": "Ana Harrison a.k.a. elegi4"
+    },
+    {
+      "role": {
+        "ca": "Disseny gràfic",
+        "es": "Diseño gráfico",
+        "en": "Graphic design"
+      },
+      "name": "Clara Pessanha"
+    },
+    {
+      "role": {
+        "ca": "Videografia",
+        "es": "Videografía",
+        "en": "Videography"
+      },
+      "name": {
+        "ca": "Productora audiovisual Merci Xula (Claudia del Barrio i Helena Roig)",
+        "es": "Productora audiovisual Merci Xula (Claudia del Barrio y Helena Roig)",
+        "en": "Merci Xula audiovisual production company (Claudia del Barrio and Helena Roig)"
+      }
+    },
+    {
+      "role": {
+        "ca": "Vestuari",
+        "es": "Vestuario",
+        "en": "Costumes"
+      },
+      "name": "YESSi PERSE, Època Barcelona, Nue-sama, Sofía Valencia"
+    },
+    {
+      "role": {
+        "ca": "Produït gràcies a",
+        "es": "Producido gracias a",
+        "en": "Produced thanks to"
+      },
+      "name": {
+        "ca": "Premis Barcelona, Premi Miquel Casablancas (Sant Andreu Contemporani), Me gustas pixelad_, Premio Generaciones (La Casa Encendida, Madrid), Can Felipa Arts Visuals i L.E.V. Festival (Laboratorio de Electrónica Visual)",
+        "es": "Premis Barcelona, Premio Miquel Casablancas (Sant Andreu Contemporani), Me gustas pixelad_, Premio Generaciones (La Casa Encendida, Madrid), Can Felipa Arts Visuals y L.E.V. Festival (Laboratorio de Electrónica Visual)",
+        "en": "Premis Barcelona, Premi Miquel Casablancas (Sant Andreu Contemporani), Me gustas pixelad_, Premio Generaciones (La Casa Encendida, Madrid), Can Felipa Arts Visuals and L.E.V. Festival (Laboratorio de Electrónica Visual)"
+      }
+    },
+    {
+      "role": {
+        "ca": "Agraïments",
+        "es": "Agradecimientos",
+        "en": "Thanks"
+      },
+      "name": {
+        "ca": "Festival BAM (Barcelona Acció Musical), Coro Joven Filarmonía, Matías Daporta, Claudia Elies, Aïda Camprubí, Ikram Bouloum, Antònia Folguera, Mayte i Tomás, Jorge, Mar i Berta",
+        "es": "Festival BAM (Barcelona Acció Musical), Coro Joven Filarmonía, Matías Daporta, Claudia Elies, Aïda Camprubí, Ikram Bouloum, Antònia Folguera, Mayte y Tomás, Jorge, Mar y Berta",
+        "en": "Festival BAM (Barcelona Acció Musical), Coro Joven Filarmonía, Matías Daporta, Claudia Elies, Aïda Camprubí, Ikram Bouloum, Antònia Folguera, Mayte and Tomás, Jorge, Mar and Berta"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://youtube.com/shorts/_jNQWmZ2lGA"
+    }
+  ],
+  "cover": "1",
+  "photos": [
+    "1",
+    "2",
+    "3"
+  ]
+}
